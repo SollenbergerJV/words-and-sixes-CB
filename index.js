@@ -18,7 +18,7 @@ const R = require('./rooms.js');
 /* Bumped whenever the app changes. It is shown in Look & sound and served at
    /version, so there is a way to answer "did my update actually go live?"
    without guessing from behaviour. */
-const VERSION = '0.3.1';
+const VERSION = '0.3.2';
 
 const PORT = process.env.PORT || 8080;
 const ROOT = path.join(__dirname, '..');

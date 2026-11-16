@@ -6,7 +6,7 @@
    definition, so there is nothing to gain from caching one and
    a great deal to lose from serving a stale board.
    ============================================================ */
-const CACHE = 'wands-shell-v0.3.1';
+const CACHE = 'wands-shell-v0.3.2';
 const SHELL = [
   '/', '/index.html', '/app.css',
   '/shared/sixes.js', '/shared/sixes-ai.js',
